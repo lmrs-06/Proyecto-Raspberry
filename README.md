@@ -10,6 +10,7 @@ Este proyecto trata sobre instalar instalar un SO en una raspberry.
 
 ## Referencias
 [Página oficial de Raspberry](https://www.raspberrypi.org)
+
 [Página información sobre la Instalacion](https://geekland.eu/instalar-raspbian-con-raspberry-pi-imager/)
 
 ## Licencia 
