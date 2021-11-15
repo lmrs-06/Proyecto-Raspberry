@@ -10,7 +10,8 @@ Este proyecto trata sobre instalar instalar un SO en una raspberry
 3. [Conclusiones] ()
 
 ## Referencias
-[Página oficial de Raspberry] (https://www.raspberrypi.org)
+[Página oficial de Raspberry](https://www.raspberrypi.org)
+[Instalacion](https://geekland.eu/instalar-raspbian-con-raspberry-pi-imager/)
 
 ## Licencia 
 ()
