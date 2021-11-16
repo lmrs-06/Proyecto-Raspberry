@@ -14,4 +14,4 @@ Este proyecto trata sobre instalar instalar un SO en una raspberry.
 [Página información sobre la Instalacion](https://geekland.eu/instalar-raspbian-con-raspberry-pi-imager/)
 
 ## Licencia 
-[Licencia](https://github.com/lmrs-06/Proyecto-Raspberry/blob/main/Imagenes/licencia.png)
+![Licencia](https://github.com/lmrs-06/Proyecto-Raspberry/blob/main/Imagenes/licencia.png)
